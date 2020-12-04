@@ -78,7 +78,7 @@ section .title::after{
 }
 
 p{
-  font-size: 17px;
+  font-size: 15px;
 }
 
 /* navbar styling */
@@ -219,7 +219,7 @@ p{
 
 
 .about .title::after{
-    content: "💖Sharing a little bit about myself.....";
+    content: "💖Sharing a little bit about myself....";
 
 }
 .about .about-content .left{
@@ -272,10 +272,6 @@ p{
 	padding: 50px 0;
 	width: 100%;
 }
-
-
-
-
 
 .summary h3 {
   font-family: "Source Sans Pro", Arial, sans-serif;
